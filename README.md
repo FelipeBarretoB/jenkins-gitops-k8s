@@ -32,3 +32,6 @@ After this you can continue with the original guide.
 
 Your argo monitor should look like this
 ![argo](./img/Screenshot%202025-05-12%20at%205.02.07 PM.png)
+
+After new changes are pushed to the repo, you can see the changes in the argo monitor.
+![argo](./img/Screenshot%202025-05-12%20at%205.37.08 PM.png)
